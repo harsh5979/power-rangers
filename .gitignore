@@ -1,0 +1,58 @@
+# goldrangers - Root .gitignore
+
+# --- Dependencies ---
+**/node_modules/
+/.pnp
+.pnp.js
+package-lock.json.log
+
+# --- Build & Production ---
+**/dist/
+**/dist-ssr/
+**/build/
+*.que
+
+# --- Logs ---
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Environment & Secrets ---
+**/ .env
+**/ .env.local
+**/ .env.development.local
+**/ .env.test.local
+**/ .env.production.local
+**/.env.*
+
+# --- IDEs & Editors ---
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swo
+.DS_Store
+Thumbs.db
+.history/
+
+# --- Local Databases & Temporary Files ---
+Backend/carts.json
+Backend/database.json
+Backend/package-install.txt
+**/temp/
+**/tmp/
+
+# --- Specific Tools ---
+.eslintcache
+.stylelintcache
+.vite-inspect

@@ -7,8 +7,8 @@ async function seed() {
   await mongoose.connect(process.env.MONGODB_URI);
   console.log('Connected to DB');
 
-  const email = 'harshprajapati8583@gmail.com';
-  const password = '123';
+  const email = process.env.ADMIN_EMAIL;
+  const password = process.env.ADMIN_PASSWORD;
 
   const existing = await User.findOne({ email });
   if (existing) {

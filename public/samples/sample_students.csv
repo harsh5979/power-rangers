@@ -1,16 +1,16 @@
-name,email,roll_number,department,batch_year,division
-Arjun Mehta,arjun.mehta@college.edu,22CE001,Computer Engineering,2022-23,A
-Priya Sharma,priya.sharma@college.edu,22CE002,Computer Engineering,2022-23,A
-Rahul Patel,rahul.patel@college.edu,22CE003,Computer Engineering,2022-23,A
-Sneha Joshi,sneha.joshi@college.edu,22CE004,Computer Engineering,2022-23,B
-Karan Desai,karan.desai@college.edu,22CE005,Computer Engineering,2022-23,B
-Ananya Singh,ananya.singh@college.edu,22CE006,Computer Engineering,2022-23,B
-Vikram Nair,vikram.nair@college.edu,22CE007,Computer Engineering,2022-23,A
-Pooja Gupta,pooja.gupta@college.edu,22CE008,Computer Engineering,2022-23,A
-Rohan Shah,rohan.shah@college.edu,22CE009,Computer Engineering,2022-23,B
-Meera Iyer,meera.iyer@college.edu,22CE010,Computer Engineering,2022-23,B
-Aditya Kumar,aditya.kumar@college.edu,22CE011,Computer Engineering,2022-23,A
-Divya Reddy,divya.reddy@college.edu,22CE012,Computer Engineering,2022-23,A
-Nikhil Verma,nikhil.verma@college.edu,22CE013,Computer Engineering,2022-23,B
-Kavya Pillai,kavya.pillai@college.edu,22CE014,Computer Engineering,2022-23,B
-Siddharth Rao,siddharth.rao@college.edu,22CE015,Computer Engineering,2022-23,A
+name,email,enrollment_no,department,batch_year,division
+Arjun Mehta,arjun.mehta@example.com,22CE001,Computer Engineering,2022-23,A
+Priya Sharma,priya.sharma@example.com,22CE002,Computer Engineering,2022-23,A
+Rahul Patel,rahul.patel@example.com,22CE003,Computer Engineering,2022-23,A
+Sneha Joshi,sneha.joshi@example.com,22CE004,Computer Engineering,2022-23,B
+Karan Desai,karan.desai@example.com,22CE005,Computer Engineering,2022-23,B
+Ananya Singh,ananya.singh@example.com,22CE006,Computer Engineering,2022-23,B
+Vikram Nair,vikram.nair@example.com,22CE007,Computer Engineering,2022-23,A
+Pooja Gupta,pooja.gupta@example.com,22CE008,Computer Engineering,2022-23,A
+Rohan Shah,rohan.shah@example.com,22CE009,Computer Engineering,2022-23,B
+Meera Iyer,meera.iyer@example.com,22CE010,Computer Engineering,2022-23,B
+Aditya Kumar,aditya.kumar@example.com,22CE011,Computer Engineering,2022-23,A
+Divya Reddy,divya.reddy@example.com,22CE012,Computer Engineering,2022-23,A
+Nikhil Verma,nikhil.verma@example.com,22CE013,Computer Engineering,2022-23,B
+Kavya Pillai,kavya.pillai@example.com,22CE014,Computer Engineering,2022-23,B
+Siddharth Rao,siddharth.rao@example.com,22CE015,Computer Engineering,2022-23,A
